@@ -13,12 +13,15 @@ La programación del curso se encuentra en el archivo programacion.xlsx`.
 Evaluación:
 
 * 2 Evaluaciones en laboratorio individual (tipo certamen):
-    * Ecuaciones diferenciales ordinarias.
-    * Ecuaciones diferenciales parciales con volúmenes finitos.
+    * Ecuaciones diferenciales parciales.
+    * Uso de software para problema de mecánica de fluidos.
+ 
+* 2 controles teóricos.
 
-* 2 Proyectos:
+* 3 Proyectos:
     * P1: Implementar una solución numérica a Navier-Stokes con diferencias finitas.
-    * P2: Resolver problema avanzado con código comercial (FLUENT).
+    * P2: Implementar solución numérica usando volúmenes finitos.
+    * P3: Resolver problema avanzado con código comercial (FLUENT).
 
 * Actividades de Laboratorios:
     * Evaluación cualitativa que dará puntos en el certamen.
